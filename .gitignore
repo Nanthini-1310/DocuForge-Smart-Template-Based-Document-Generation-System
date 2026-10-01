@@ -1,0 +1,17 @@
+dist/
+node_modules/
+.wrangler/
+worker-configuration.d.ts
+
+# Environment variables (local development)
+.env.local
+.env.local.wrangler
+.env*.local
+.dev.vars
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store

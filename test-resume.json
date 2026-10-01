@@ -1,0 +1,26 @@
+{
+  "fullName": "John Doe",
+  "email": "john@example.com",
+  "phone": "+1 (555) 123-4567",
+  "address": "123 Main St, City, State",
+  "objective": "Seeking a challenging position",
+  "education": [
+    {
+      "degree": "BS Computer Science",
+      "institution": "University",
+      "year": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tech Corp",
+      "role": "Developer",
+      "duration": "2020-2023"
+    }
+  ],
+  "skills": ["JavaScript", "React", "Node.js"],
+  "hobbies": ["Photography", "Hiking"],
+  "fontFamily": "Arial",
+  "fontSize": 12,
+  "margin": 1
+}
